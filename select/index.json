@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "To Be Continued....",
+  "base_artist": "ホロライブゲーマーズ",
+  "createdAt": "2026-01-04T03:47:19.665588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Way Out... To Be Continued (2001 Remastered Version)",
+      "artist": "Bruce Dickinson",
+      "has_synced": false,
+      "path": "select/01_No_Way_Out..._To_Be_Continued_(2001_Remastered_Version)_Bruce_Dickinson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "To Be Continued (Remastered 2002)",
+      "artist": "The Sensational Alex Harvey Band",
+      "has_synced": false,
+      "path": "select/02_To_Be_Continued_(Remastered_2002)_The_Sensational_Alex_Harvey_Band.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To Be Continued",
+      "artist": "The Sensational Alex Harvey Band",
+      "has_synced": false,
+      "path": "select/03_To_Be_Continued_The_Sensational_Alex_Harvey_Band.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To Be Continued",
+      "artist": "The Temptations",
+      "has_synced": true,
+      "path": "select/04_To_Be_Continued_The_Temptations.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To Be continued",
+      "artist": "chelmico",
+      "has_synced": true,
+      "path": "select/05_To_Be_continued_chelmico.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ending Credit (To be continued)",
+      "artist": "YURI",
+      "has_synced": true,
+      "path": "select/06_Ending_Credit_(To_be_continued)_YURI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To Be Continued...",
+      "artist": "Set Your Goals",
+      "has_synced": true,
+      "path": "select/07_To_Be_Continued..._Set_Your_Goals.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To Be Continued",
+      "artist": "Set Your Goals",
+      "has_synced": true,
+      "path": "select/08_To_Be_Continued_Set_Your_Goals.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Colorado to be continued",
+      "artist": "Gem Boy feat. Paolo Ruffini",
+      "has_synced": true,
+      "path": "select/09_Colorado_to_be_continued_Gem_Boy_feat._Paolo_Ruffini.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To be continued -Outro- (with DENIMALZ 3)",
+      "artist": "DAY6 (Even of Day)",
+      "has_synced": true,
+      "path": "select/10_To_be_continued_-Outro-_(with_DENIMALZ_3)_DAY6_(Even_of_Day).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To Be Continued....",
+      "artist": "ホロライブゲーマーズ",
+      "has_synced": false,
+      "path": "select/pl_01_To_Be_Continued...._ホロライブゲーマーズ.txt"
+    }
+  ]
+}
